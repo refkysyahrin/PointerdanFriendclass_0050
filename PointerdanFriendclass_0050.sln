@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer2", "..\Pointer2\Poi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendClassSatu", "..\FriendClassSatu\FriendClassSatu.vcxproj", "{E2DAFEF9-5C85-446D-B1FA-11E3BF6287A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FriendFunctionSatu", "..\FriendFunctionSatu\FriendFunctionSatu.vcxproj", "{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E2DAFEF9-5C85-446D-B1FA-11E3BF6287A5}.Release|x64.Build.0 = Release|x64
 		{E2DAFEF9-5C85-446D-B1FA-11E3BF6287A5}.Release|x86.ActiveCfg = Release|Win32
 		{E2DAFEF9-5C85-446D-B1FA-11E3BF6287A5}.Release|x86.Build.0 = Release|Win32
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Debug|x64.ActiveCfg = Debug|x64
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Debug|x64.Build.0 = Debug|x64
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Debug|x86.Build.0 = Debug|Win32
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Release|x64.ActiveCfg = Release|x64
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Release|x64.Build.0 = Release|x64
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Release|x86.ActiveCfg = Release|Win32
+		{7B6D41D7-D8A6-4E79-A07E-E96E8E8F663B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
